@@ -1,4 +1,4 @@
-# Design a Website for Server Side Processing
+# Design a website to perform standard calculator in server side.
 
 ## AIM:
 To design a website to perform standard calculator in server side.
