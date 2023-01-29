@@ -1,5 +1,4 @@
-# Design a website to perform standard calculator in server side.
-
+# Design of a Standard Calculator
 ## AIM:
 To design a website to perform standard calculator in server side.
 
